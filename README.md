@@ -14,3 +14,11 @@ Titre de commit
 
 Description de commit et evolution de projet
 ```
+
+## Envoyer de commit a distance
+
+```
+git add .
+git commit -m "Titre de commit"
+git push origin main
+```
