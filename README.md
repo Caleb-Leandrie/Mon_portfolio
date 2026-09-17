@@ -28,3 +28,5 @@ git push origin main
 ```bash
 git checkout -b NOM_DE_BRANCHE
 ```
+
+Pour les bonnes pratiques , on va appliquer la revue de code.
