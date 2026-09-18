@@ -30,3 +30,13 @@ git checkout -b NOM_DE_BRANCHE
 ```
 
 Pour les bonnes pratiques , on va appliquer la revue de code.
+
+## Creation de code sur le portfolio
+
+```
+Creation de fichier index.html
+
+Creation de fichier script.js
+
+Creation de fichier style.css
+```
